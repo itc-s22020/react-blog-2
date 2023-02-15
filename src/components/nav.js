@@ -11,12 +11,12 @@ const Nav = () => {
                     </Link>
                 </li>
                 <li>
-                    <Link href="/">
+                    <Link href="/about">
                         <dev>About</dev>
                     </Link>
                 </li>
                 <li>
-                    <Link href="/">
+                    <Link href="/blog">
                         <dev>Blog</dev>
                     </Link>
                 </li>
